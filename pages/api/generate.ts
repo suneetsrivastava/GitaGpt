@@ -1,6 +1,6 @@
 import { OpenAIStream, OpenAIStreamPayload } from "../../utils/OpenAIStream";
 
-if (!process.env.OPENAI_API_KEY) {
+if (!process.env.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) {
   throw new Error("Missing env var from OpenAI");
 }
 
